@@ -1,10 +1,4 @@
 
-Your generous donations help keep this site online! Click here to support cexx.org.
- Loveletter virus source code
-  
-Below is the text of the pathetic LoveLetter "virus", for anyone who's interested. It has been reformatted as an plain text/HTML file, so there's no need to worry about being infected by it. For God's sake, don't copy the text into a .VBS file and run it, espescially if you have installed any new MSIE (this little bugger will wipe out your MP3s!!) 
-  
-Editor's note: If you're going to write a virus, use a REAL language (assembler)!! Maybe C if you're desperate... 
  
  rem  barok -loveletter(vbe) <i hate go to school> 
  rem by: spyder  /  ispyder@mail.com  /  @GRAMMERSoft Group  /  Manila,Philippines 
